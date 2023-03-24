@@ -1,5 +1,5 @@
-<h1 align="center"> Recipe App </h1> <br>
-<p align="center">
+<h1 align="left"> Recipe App </h1> <br>
+<p align="left">
 Built with React Native.
 </p>
 
@@ -27,33 +27,31 @@ With our app, users can easily browse through a collection of recipes, search fo
 
 ## Screens
 
-<div style="display:flex;">
-<p align="center">
+<p align="left">
   <img src = "https://res.cloudinary.com/dhananjaykuber-cloud/image/upload/v1679664526/portfolio-images/recipe-app-8_ohshw4.jpg" width=200>
 </p>
-<p align="center">
+<p align="left">
   <img src = "https://res.cloudinary.com/dhananjaykuber-cloud/image/upload/v1679664525/portfolio-images/recipe-app-2_puwc72.jpg" width=200>
 </p>
-<p align="center">
+<p align="left">
   <img src = "https://res.cloudinary.com/dhananjaykuber-cloud/image/upload/v1679664525/portfolio-images/recipe-app-7_tu4tcy.jpg" width=200>
 </p>
-<p align="center">
+<p align="left">
   <img src = "https://res.cloudinary.com/dhananjaykuber-cloud/image/upload/v1679664525/portfolio-images/recipe-app-4_v8hiem.jpg" width=200>
 </p>
-<p align="center">
+<p align="left">
   <img src = "https://res.cloudinary.com/dhananjaykuber-cloud/image/upload/v1679664525/portfolio-images/recipe-app-4_v8hiem.jpg" width=200>
 </p>
-<p align="center">
+<p align="left">
   <img src = "https://res.cloudinary.com/dhananjaykuber-cloud/image/upload/v1679664525/portfolio-images/recipe-app-1_pitpci.jpg" width=200>
 </p>
 </p>
-<p align="center">
+<p align="left">
   <img src = "https://res.cloudinary.com/dhananjaykuber-cloud/image/upload/v1679664526/portfolio-images/recipe-app-6_i1krxo.jpg" width=200>
 </p>
-<p align="center">
+<p align="left">
   <img src = "https://res.cloudinary.com/dhananjaykuber-cloud/image/upload/v1679664525/portfolio-images/recipe-app-5_tn283b.jpg" width=200>
 </p>
-</div>
 
 ## Technology
 
