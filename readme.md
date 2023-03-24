@@ -8,7 +8,7 @@ Built with React Native.
 - [Introduction](#introduction)
 - [Features](#features)
 - [Screens](#screens)
-- [Technology Used](#technology)
+- [Technology](#technology)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -27,6 +27,7 @@ With our app, users can easily browse through a collection of recipes, search fo
 
 ## Screens
 
+<div style="display:flex;">
 <p align="center">
   <img src = "https://res.cloudinary.com/dhananjaykuber-cloud/image/upload/v1679664526/portfolio-images/recipe-app-8_ohshw4.jpg" width=200>
 </p>
@@ -52,3 +53,8 @@ With our app, users can easily browse through a collection of recipes, search fo
 <p align="center">
   <img src = "https://res.cloudinary.com/dhananjaykuber-cloud/image/upload/v1679664525/portfolio-images/recipe-app-5_tn283b.jpg" width=200>
 </p>
+</div>
+
+## Technology
+
+- React Native
